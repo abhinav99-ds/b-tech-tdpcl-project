@@ -1,0 +1,6 @@
+{
+  "altitude": 28000,
+  "speed": 850,
+  "temperature": -20,
+  "weight": 70000
+}
